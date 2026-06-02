@@ -20,8 +20,6 @@ body{
     padding: 20px 5%;
 }
 
-/* Logo */
-
 .logo{
     font-size: 24px;
     font-weight: bold;
@@ -37,14 +35,15 @@ body{
 
 .menu{
     display: flex;
-    gap: 25px;
+    gap: 20px;
 }
 
 .menu a{
     text-decoration: none;
-    color: #555;
-    display: inline-block;
-    transition: 0.3s;
+    color: black;
+    padding: 8px 12px;
+    border-radius: 6px;
+    transition: all 0.3s ease;
 }
 
 .menu a:hover{
@@ -57,13 +56,13 @@ body{
 .user{
     background-color: #d9eefc;
     color: #2196f3;
-    padding: 10px 15px;
+    padding: 8px 15px;
     border-radius: 8px;
     transition: 0.3s;
 }
 
 .user:hover{
-    transform: scale(1.05);
+    transform: scale(1.08) rotate(2deg);
 }
 
 /* ================= HAMBURGER ================= */
@@ -82,10 +81,11 @@ body{
     position: absolute;
     right: 0;
     top: 45px;
-    width: 220px;
-    background: white;
+    width: 200px;
+    background-color: white;
     box-shadow: 0 0 10px rgba(0,0,0,0.2);
     border-radius: 8px;
+    overflow: hidden;
 }
 
 .mobile-menu a{
@@ -93,20 +93,22 @@ body{
     padding: 12px;
     text-decoration: none;
     color: black;
-    border-bottom: 1px solid #eee;
+    transition: all 0.3s ease;
 }
 
 .mobile-menu a:hover{
-    background-color: #f5f5f5;
+    background-color: #2196f3;
+    color: white;
+    transform: translateX(8px);
 }
 
-/* Show menu on focus */
+/* Show menu when hamburger is focused */
 
 .hamburger-btn:focus .mobile-menu{
     display: block;
 }
 
-/* ================= HERO ================= */
+/* ================= HERO SECTION ================= */
 
 .hero{
     display: flex;
@@ -116,14 +118,14 @@ body{
     padding: 0 5%;
 }
 
-/* Left */
+/* Left Section */
 
 .left{
     width: 50%;
 }
 
 .left h1{
-    font-size: 52px;
+    font-size: 50px;
     line-height: 1.3;
     color: #333;
 }
@@ -133,7 +135,7 @@ body{
 }
 
 .left p{
-    color: #666;
+    color: gray;
     margin: 20px 0;
     line-height: 1.6;
 }
@@ -141,25 +143,24 @@ body{
 /* Button */
 
 .left button{
+    padding: 12px 24px;
     background-color: #2196f3;
     color: white;
     border: none;
-    padding: 14px 28px;
-    border-radius: 10px;
+    border-radius: 8px;
     cursor: pointer;
-    transition: 0.3s;
+    transition: all 0.3s ease;
 }
 
 .left button:hover{
+    background-color: #0b7dda;
     transform: scale(1.1) rotate(-3deg);
-    background-color: #0d83e6;
-    box-shadow: 0 8px 20px rgba(33,150,243,0.3);
 }
 
-/* Right */
+/* Right Section */
 
 .right{
-    width: 45%;
+    width: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -168,54 +169,48 @@ body{
 /* Animated Image */
 
 .right img{
-    width: 100%;
-    max-width: 450px;
-    filter: drop-shadow(0 15px 20px rgba(0,0,0,0.2));
-    animation: orbitSqueeze 3s infinite ease-in-out;
+    width: 80%;
+    max-width: 400px;
+    animation: orbit 2s infinite linear;
 }
 
-/* ================= ORBIT ANIMATION ================= */
+/* ================= ANIMATION ================= */
 
-@keyframes orbitSqueeze {
+@keyframes orbit{
 
     0%{
         transform:
         translate(0px,0px)
         scaleX(1)
-        scaleY(1)
-        rotate(0deg);
+        scaleY(1);
     }
 
     25%{
         transform:
-        translate(30px,-20px)
-        scaleX(1.15)
-        scaleY(0.85)
-        rotate(5deg);
+        translate(50px,-30px)
+        scaleX(1.4)
+        scaleY(0.6);
     }
 
     50%{
         transform:
-        translate(0px,-40px)
-        scaleX(0.85)
-        scaleY(1.15)
-        rotate(0deg);
+        translate(0px,-60px)
+        scaleX(0.6)
+        scaleY(1.4);
     }
 
     75%{
         transform:
-        translate(-30px,-20px)
-        scaleX(1.15)
-        scaleY(0.85)
-        rotate(-5deg);
+        translate(-50px,-30px)
+        scaleX(1.4)
+        scaleY(0.6);
     }
 
     100%{
         transform:
         translate(0px,0px)
         scaleX(1)
-        scaleY(1)
-        rotate(0deg);
+        scaleY(1);
     }
 }
 
@@ -236,7 +231,7 @@ body{
     }
 
     .left h1{
-        font-size: 38px;
+        font-size: 36px;
     }
 
     .left p{
@@ -244,7 +239,7 @@ body{
     }
 
     .right img{
-        max-width: 350px;
+        width: 70%;
     }
 }
 
@@ -252,17 +247,14 @@ body{
 
 @media (max-width: 768px){
 
-    /* Hide Desktop Menu */
     .menu{
         display: none;
     }
 
-    /* Show Hamburger */
     .hamburger-btn{
         display: block;
     }
 
-    /* Hero Layout */
     .hero{
         flex-direction: column-reverse;
         text-align: center;
@@ -275,7 +267,7 @@ body{
     }
 
     .left h1{
-        font-size: 30px;
+        font-size: 28px;
     }
 
     .left p{
@@ -283,7 +275,7 @@ body{
     }
 
     .right img{
-        max-width: 250px;
+        width: 60%;
         margin-bottom: 20px;
     }
 
@@ -293,6 +285,6 @@ body{
 
     .user{
         font-size: 12px;
-        padding: 8px 10px;
+        padding: 6px 10px;
     }
 }
