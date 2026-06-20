@@ -14,7 +14,7 @@ cd your-repository-name
 Run the project:
 Open index.html in any web browser.
 
-# 🚀 Tutedude Full-Stack Development Journey
+#  Tutedude Full-Stack Development Journey
 
 Welcome to my repository! This project tracks my progress through the Tutedude Full-Stack Development Course.
 
@@ -29,7 +29,7 @@ Welcome to my repository! This project tracks my progress through the Tutedude F
 | Database | MongoDB |
 | Tools | Git, VS Code, Netlify |
 
-## 🎯 Repository Goals
+## Repository Goals
 
 - Master Modern CSS (Flexbox, Grid, Animations)
 - Build MERN Stack applications
@@ -38,7 +38,7 @@ Welcome to my repository! This project tracks my progress through the Tutedude F
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-washim-akram-28a9941b8)
 
