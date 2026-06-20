@@ -29,21 +29,6 @@ Welcome to my repository! This project tracks my progress through the Tutedude F
 | Database | MongoDB |
 | Tools | Git, VS Code, Netlify |
 
----
-
-## 📂 Course Progress & Tasks
-
-| Task # | Project Name | Description | Live Demo | Source Code | Status |
-|---------|-------------|-------------|-----------|------------|---------|
-| 01 | Hello World | Basic HTML structure | [🚀 View](chic-torte-7d6cd6.netlify.app) | [📁 Code](#) | ✅ Done |
-| 02 | Laundry Mart | Landing page using HTML & CSS | [🚀 View](symphonious-nougat-1bf8b4.netlify.app) | [📁 Code](#) | ✅ Done |
-| 03 | CSS Selectors | ID, Class and Attribute Selectors | [🚀 View](kaleidoscopic-hotteok-4e0ffe.netlify.app) | [📁 Code](#) | ✅ Done |
-| 04 | CSS Unites, Box Models, Font | Viewport units and sizing | [🚀 View](https://harmonious-flan-4e2140.netlify.app/) | [📁 Code](#) | ✅ Done |
-| 05 | CSS Project | Responsive Laundry Website | [🚀 View](amazing-madeleine-edcc36.netlify.app)| [📁 Code](#) | ✅ Done |
-| 06 | JavaScript | DOM & API Basics | — | — | 📅 Planned |
-
----
-
 ## 🎯 Repository Goals
 
 - Master Modern CSS (Flexbox, Grid, Animations)
@@ -59,4 +44,3 @@ Welcome to my repository! This project tracks my progress through the Tutedude F
 
 ---
 
-⭐ If you like this repository, don't forget to star it!
