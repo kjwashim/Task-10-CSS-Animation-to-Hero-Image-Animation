@@ -20,7 +20,7 @@ Welcome to my repository! This project tracks my progress through the Tutedude F
 
 ---
 
-## 🛠️ Tech Stack (Learning in Progress)
+## Tech Stack (Learning in Progress)
 
 | Category | Technologies |
 |-----------|-------------|
