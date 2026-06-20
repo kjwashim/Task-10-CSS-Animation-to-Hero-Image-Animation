@@ -16,14 +16,14 @@ Open index.html in any web browser.
 
 # 🚀 Tutedude Full-Stack Development Journey
 
-Welcome to my repository! This project tracks my learning journey through the Tutedude Full-Stack MERN Stack Course.
+Welcome to my repository! This project tracks my progress through the Tutedude Full-Stack MERN Stack Course. Each folder represents a milestone in my learning journey.
 
 ---
 
-## 🛠 Tech Stack (Learning in Progress)
+## 🛠️ Tech Stack (Learning in Progress)
 
 | Category | Technologies |
-|-----------|-------------|
+|----------|-------------|
 | Frontend | HTML5, CSS3, JavaScript, React |
 | Backend | Node.js, Express.js |
 | Database | MongoDB |
@@ -33,54 +33,59 @@ Welcome to my repository! This project tracks my learning journey through the Tu
 
 ## 📂 Course Progress & Tasks
 
-| Task # | Project Name | Description | Demo | Source Code | Status |
-|---------|-------------|-------------|------|------------|--------|
-| 01 | Hello World | Basic HTML structure | 🔗 View | 📁 Code | ✅ Done |
-| 02 | Laundry Mart | Laundry landing page using HTML & CSS | 🔗 View | 📁 Code | ✅ Done |
-| 03 | CSS Selectors | Learning CSS selectors | 🔗 View | 📁 Code | ✅ Done |
-| 04 | CSS Box Model | Viewport units and sizing | 🔗 View | 📁 Code | ✅ Done |
-| 05 | Responsive Laundry App | Media Queries & Responsive Design | 🔗 View | 📁 Code | ✅ Done |
-| 06 | Hamburger Menu | Mobile Navigation Menu | 🔗 View | 📁 Code | ✅ Done |
+| Task # | Project Name | Description | Status |
+|---------|-------------|-------------|---------|
+| 01 | Hello World | Basic HTML structure and boilerplate | ✅ Done |
+| 02 | Laundry Mart | Laundry landing page using HTML & CSS | ✅ Done |
+| 03 | CSS Selectors | Working with ID, Class and Attribute Selectors | ✅ Done |
+| 04 | CSS Box Model | Margin, Padding, Border and Sizing | ✅ Done |
+| 05 | Responsive Laundry App | Media Queries and Responsive Design | ✅ Done |
+| 06 | Hamburger Menu | Mobile Navigation Menu | ✅ Done |
+| 07 | CSS Animation | Orbit & Squeeze Animation | ✅ Done |
+| 08 | JavaScript Basics | Variables, Functions and DOM | 🔄 In Progress |
 
 ---
 
 ## 🎯 Repository Goals
 
-- Learn Modern CSS
-- Build Responsive Websites
-- Learn JavaScript Fundamentals
-- Master MERN Stack Development
-- Create Real-World Projects
+- Learn Modern HTML & CSS
+- Master Responsive Web Design
+- Understand JavaScript Fundamentals
+- Build Full-Stack MERN Applications
+- Deploy Real-World Projects
 
 ---
 
-## 📸 Project Screenshots
+## 📸 Featured Projects
 
-### Laundry Services Hero Section
-
-![Laundry Project](./images/laundry-project.png)
-
----
-
-## 📬 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 🌐 Portfolio: https://your-portfolio.com
-- 📧 Email: your-email@example.com
+### Laundry Service Hero Section
+Responsive landing page featuring:
+- Responsive Navbar
+- Hamburger Menu
+- Hero Section
+- Orbit Animation
+- Hover Effects
 
 ---
 
-## ⭐ Progress Tracker
+## 📈 Learning Progress
 
-- [x] HTML Basics
-- [x] CSS Fundamentals
-- [x] Responsive Design
-- [x] CSS Animations
-- [ ] JavaScript
-- [ ] React
-- [ ] Node.js
-- [ ] MongoDB
+```text
+HTML       ██████████ 100%
+CSS        ████████░░ 80%
+JavaScript ███░░░░░░░ 30%
+React      ░░░░░░░░░░ 0%
+Backend    ░░░░░░░░░░ 0%
+```
 
 ---
 
-### Thanks for visiting my repository! 🚀
+## 🔗 Connect With Me
+
+- GitHub: https://github.com/yourusername
+- LinkedIn: https://linkedin.com/in/yourprofile
+- Portfolio: https://yourportfolio.com
+
+---
+
+⭐ Thanks for visiting my learning journey repository!
