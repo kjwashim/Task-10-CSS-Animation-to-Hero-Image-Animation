@@ -16,14 +16,14 @@ Open index.html in any web browser.
 
 # 🚀 Tutedude Full-Stack Development Journey
 
-Welcome to my repository! This project tracks my progress through the Tutedude Full-Stack MERN Stack Course. Each folder represents a milestone in my learning journey.
+Welcome to my repository! This project tracks my progress through the Tutedude Full-Stack Development Course.
 
 ---
 
 ## 🛠️ Tech Stack (Learning in Progress)
 
 | Category | Technologies |
-|----------|-------------|
+|-----------|-------------|
 | Frontend | HTML5, CSS3, JavaScript, React |
 | Backend | Node.js, Express.js |
 | Database | MongoDB |
@@ -33,59 +33,30 @@ Welcome to my repository! This project tracks my progress through the Tutedude F
 
 ## 📂 Course Progress & Tasks
 
-| Task # | Project Name | Description | Status |
-|---------|-------------|-------------|---------|
-| 01 | Hello World | Basic HTML structure and boilerplate | ✅ Done |
-| 02 | Laundry Mart | Laundry landing page using HTML & CSS | ✅ Done |
-| 03 | CSS Selectors | Working with ID, Class and Attribute Selectors | ✅ Done |
-| 04 | CSS Box Model | Margin, Padding, Border and Sizing | ✅ Done |
-| 05 | Responsive Laundry App | Media Queries and Responsive Design | ✅ Done |
-| 06 | Hamburger Menu | Mobile Navigation Menu | ✅ Done |
-| 07 | CSS Animation | Orbit & Squeeze Animation | ✅ Done |
-| 08 | JavaScript Basics | Variables, Functions and DOM | 🔄 In Progress |
+| Task # | Project Name | Description | Live Demo | Source Code | Status |
+|---------|-------------|-------------|-----------|------------|---------|
+| 01 | Hello World | Basic HTML structure | [🚀 View](chic-torte-7d6cd6.netlify.app) | [📁 Code](#) | ✅ Done |
+| 02 | Laundry Mart | Landing page using HTML & CSS | [🚀 View](symphonious-nougat-1bf8b4.netlify.app) | [📁 Code](#) | ✅ Done |
+| 03 | CSS Selectors | ID, Class and Attribute Selectors | [🚀 View](kaleidoscopic-hotteok-4e0ffe.netlify.app) | [📁 Code](#) | ✅ Done |
+| 04 | CSS Unites, Box Models, Font | Viewport units and sizing | [🚀 View](https://harmonious-flan-4e2140.netlify.app/) | [📁 Code](#) | ✅ Done |
+| 05 | CSS Project | Responsive Laundry Website | [🚀 View](amazing-madeleine-edcc36.netlify.app)| [📁 Code](#) | ✅ Done |
+| 06 | JavaScript | DOM & API Basics | — | — | 📅 Planned |
 
 ---
 
 ## 🎯 Repository Goals
 
-- Learn Modern HTML & CSS
-- Master Responsive Web Design
-- Understand JavaScript Fundamentals
-- Build Full-Stack MERN Applications
-- Deploy Real-World Projects
+- Master Modern CSS (Flexbox, Grid, Animations)
+- Build MERN Stack applications
+- Improve problem-solving skills
+- Maintain clean and professional code
 
 ---
 
-## 📸 Featured Projects
+## 📬 Connect With Me
 
-### Laundry Service Hero Section
-Responsive landing page featuring:
-- Responsive Navbar
-- Hamburger Menu
-- Hero Section
-- Orbit Animation
-- Hover Effects
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-washim-akram-28a9941b8)
 
 ---
 
-## 📈 Learning Progress
-
-```text
-HTML       ██████████ 100%
-CSS        ████████░░ 80%
-JavaScript ███░░░░░░░ 30%
-React      ░░░░░░░░░░ 0%
-Backend    ░░░░░░░░░░ 0%
-```
-
----
-
-## 🔗 Connect With Me
-
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Portfolio: https://yourportfolio.com
-
----
-
-⭐ Thanks for visiting my learning journey repository!
+⭐ If you like this repository, don't forget to star it!
